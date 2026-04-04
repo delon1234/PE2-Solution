@@ -1,0 +1,3 @@
+interface Perishable {
+  int getDaysToExpiry();
+}
